@@ -1,3 +1,1150 @@
 12-25-2020 @ 11:02:45 - Retrieving page access token
 12-25-2020 @ 11:02:48 - Retrieving page access token
 12-25-2020 @ 11:02:48 - Retrieving page access token
+12-25-2020 @ 11:55:48 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/690414145170123?fields=name
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.35302s
+
+12-25-2020 @ 11:55:48 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "75daa4443934fec3f26bfd6d2eb21f7a7b8eb420"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => Ab1Y6aRV3OgTZE8RMWvmI0H
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => HBWs+ZPKcMl
+    [x-fb-rev] => 1003138838
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-fb-rlafr] => 0
+    [x-business-use-case-usage] => {"690414145170123":[{"type":"ads_management","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+    [access-control-allow-origin] => *
+    [x-fb-debug] => HEdgastKoiWuLNtMtnquQSDxn1f+GEa8OMqJbiA62Bs+hXVm9sPG5zx2u1L2cBmEqHY3PXkfuWzalh2Ompxjbg==
+    [date] => Fri, 25 Dec 2020 04:55:51 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 55
+)
+body: {"name":"Elina - Danh m\u1ee5c","id":"690414145170123"}
+
+12-25-2020 @ 11:55:49 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/860197848069666?fields=name%2Clink
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.36602s
+
+12-25-2020 @ 11:55:49 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "df398178a39fd5a3f2a48cdb7e701e7428b20dde"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AVMAfj-bXywFExQJ2Aa1kvU
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => AUjBEmk8NGY
+    [x-fb-rev] => 1003138838
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => 1UqzGkiK1R0I/matun5aS5ssmdeYyJuIQLc4aUspw8giz7I95div0fXR6CMBoayJiFMQbJUyWBS7db4JGt7MvA==
+    [date] => Fri, 25 Dec 2020 04:55:51 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 149
+)
+body: {"name":"Elina - Tr\u00ecnh qu\u1ea3n l\u00fd kinh doanh","link":"https:\/\/business.facebook.com\/business\/860197848069666","id":"860197848069666"}
+
+12-25-2020 @ 12:17:21 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.37302s
+
+12-25-2020 @ 12:17:21 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AkNsFCsUQZ-nCyukPUUJhqT
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => DjAw9iFV5ph
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138838
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => dM5i3UQXuS447XJNtEC4fVesXg/+tupf7zaDs8AY/5H8Cye1xlHu5hzrcLav1aGJoEb4pKHd99v6xHyu59iLzw==
+    [date] => Fri, 25 Dec 2020 05:17:24 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 12:17:21 - Generating a fresh product feed file
+12-25-2020 @ 12:17:21 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.35002s
+
+12-25-2020 @ 12:17:21 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AXkLVCC3ls17cTZJh7Yo27d
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => FPg4VXhNSzb
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138838
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => kO4DdlU8fpeBEuFm/jaLH+LnwyWGcs09F/0LQ0JAawQ5/w6VXIyVBeVmiWbFu6wnqAW4Wr1fRbUvAvJVP4lxsg==
+    [date] => Fri, 25 Dec 2020 05:17:24 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 12:17:22 - Product feed file generated
+12-25-2020 @ 14:15:54 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.36802s
+
+12-25-2020 @ 14:15:54 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => A9WZfN1az2g4hO2VSzG8l0s
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => F2mzMym9Es7
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138860
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => FtkprP0TAsGlh0PEzpoBMhA2J5Um5D+XJnVxNX0lIjlLnfVc9KcdabjHumI8w51XGNr2M+NUOa0ld7Tbq8244g==
+    [date] => Fri, 25 Dec 2020 07:15:56 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 14:15:54 - Generating a fresh product feed file
+12-25-2020 @ 14:15:54 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.38002s
+
+12-25-2020 @ 14:15:54 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => ALQi9ebmpTLo_V4wgkD-w-0
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => G1aZ6CgddgE
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138860
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => q/t7QM5eAGBi5gJH+S5dJpKRtZssXWkg0qAkyczBDycIGIsBOqZAiveQE2bGPbbgMsj1onOii0LzScUzFyAlrg==
+    [date] => Fri, 25 Dec 2020 07:15:56 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 14:15:54 - Product feed file generated
+12-25-2020 @ 14:23:32 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/690414145170123?fields=name
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.36202s
+
+12-25-2020 @ 14:23:32 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "75daa4443934fec3f26bfd6d2eb21f7a7b8eb420"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AWDLFbfL03oDsEjxi7QGAve
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => AqQxeD9J4jn
+    [x-fb-rev] => 1003138860
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-fb-rlafr] => 0
+    [x-business-use-case-usage] => {"690414145170123":[{"type":"ads_management","call_count":0,"total_cputime":0,"total_time":0,"estimated_time_to_regain_access":0}]}
+    [access-control-allow-origin] => *
+    [x-fb-debug] => 179xTxk6qX8dTIAj6csMqbK9GbIzAt064BkgLTc8MHVC0Mqm13O6ZmWdg0sRYfeZQkjQBI08pTHq6f6gy2wBJg==
+    [date] => Fri, 25 Dec 2020 07:23:34 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 55
+)
+body: {"name":"Elina - Danh m\u1ee5c","id":"690414145170123"}
+
+12-25-2020 @ 14:23:32 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/860197848069666?fields=name%2Clink
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.35002s
+
+12-25-2020 @ 14:23:32 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "df398178a39fd5a3f2a48cdb7e701e7428b20dde"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AOOcBSqGdC3RIld6nToigFs
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => GDpzkOYgsxm
+    [x-fb-rev] => 1003138860
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => uuC47+Kuf1tvcrF+VEhSn1WvDTGdLQ2uSlnc/5iUE+EaGFBtCkfXdIIx60te8s5lkOaC3gVC7Rn2s7esrn/8/g==
+    [date] => Fri, 25 Dec 2020 07:23:34 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 149
+)
+body: {"name":"Elina - Tr\u00ecnh qu\u1ea3n l\u00fd kinh doanh","link":"https:\/\/business.facebook.com\/business\/860197848069666","id":"860197848069666"}
+
+12-25-2020 @ 14:24:01 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/690414145170123/items_batch
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"allow_upsert":true,"requests":[{"method":"UPDATE","data":{"title":"V\u1ec1 th\u00eam m\u1eabu ti\u1ec3u th\u01b0 tay ph\u1ed3ng cho n\u00e0ng n\u00e0o b\u00e1nh b\u00e8o nha","description":"V\u1ec1 th\u00eam m\u1eabu ti\u1ec3u th\u01b0 tay ph\u1ed3ng cho n\u00e0ng n\u00e0o b\u00e1nh b\u00e8o nha","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2020\/12\/124844839_199162328498472_5166546130361608777_n.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/ve-them-mau-tieu-thu-tay-phong-cho-nang-nao-banh-beo-nha\/","brand":"Elina","price":"100000 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"100000 VND","item_group_id":"wc_post_id_349","condition":"new","id":"wc_post_id_349"}},{"method":"UPDATE","data":{"title":"Black pants","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\n\nTemporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer malesuada. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat. Fusce suscipit libero eget elit. Praesent vitae arcu tempor neque lacinia pretium. Vivamus luctus egestas leo. Nullam at arcu a est sollicitudin euismod.\n\nNulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_XPI5DN9KGA-2.jpg","additional_image_link":["http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_Y6SDOYW0KA-2.jpg","http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_4F9UDG0I8Q-2.jpg"],"link":"http:\/\/elina.local\/product\/black-pants\/?attribute_pa_color=white","brand":"Elina","price":"89 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"89 VND","item_group_id":"wc_post_id_17","condition":"new","additional_variant_attribute":"color:white","id":"wc_post_id_120"}},{"method":"UPDATE","data":{"title":"Black pants","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\n\nTemporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer malesuada. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat. Fusce suscipit libero eget elit. Praesent vitae arcu tempor neque lacinia pretium. Vivamus luctus egestas leo. Nullam at arcu a est sollicitudin euismod.\n\nNulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_Y6SDOYW0KA-2.jpg","additional_image_link":["http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_4F9UDG0I8Q-2.jpg"],"link":"http:\/\/elina.local\/product\/black-pants\/?attribute_pa_color=red","brand":"Elina","price":"99 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"99 VND","item_group_id":"wc_post_id_17","condition":"new","additional_variant_attribute":"color:red","id":"wc_post_id_119"}},{"method":"UPDATE","data":{"title":"Polo T-shirt","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\u00a0Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.\n\nNulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_TE9BDY8EYB-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/polo-t-shirt\/?attribute_pa_color=white","brand":"Elina","price":"25 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/2038-01-17T23:59+00:00","sale_price":"22 VND","item_group_id":"wc_post_id_19","condition":"new","additional_variant_attribute":"color:white","id":"wc_post_id_118"}},{"method":"UPDATE","data":{"title":"Polo T-shirt","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\u00a0Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.\n\nNulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_TE9BDY8EYB-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/polo-t-shirt\/?attribute_pa_color=red","brand":"Elina","price":"25 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"25 VND","item_group_id":"wc_post_id_19","condition":"new","additional_variant_attribute":"color:red","id":"wc_post_id_117"}},{"method":"UPDATE","data":{"title":"Polo T-shirt","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\u00a0Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.\n\nNulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_TE9BDY8EYB-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/polo-t-shirt\/?attribute_pa_color=black","brand":"Elina","price":"25 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"25 VND","item_group_id":"wc_post_id_19","condition":"new","additional_variant_attribute":"color:black","id":"wc_post_id_116"}},{"method":"UPDATE","data":{"title":"Futre IO","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_99KAK5LAA7-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/futre-io\/?attribute_logo=Yes","brand":"Elina","price":"40 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"40 VND","item_group_id":"wc_post_id_13","condition":"new","additional_variant_attribute":"logo:Yes","id":"wc_post_id_25"}},{"method":"UPDATE","data":{"title":"Oldies","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\n\nInteger vulputate sem a nibh rutrum consequat. Praesent vitae arcu tempor neque lacinia pretium. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Quisque tincidunt scelerisque libero. Maecenas aliquet accumsan leo. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Proin mattis lacinia justo. Aenean vel massa quis mauris vehicula lacinia. Praesent id justo in neque elementum ultrices. Donec iaculis gravida nulla. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Aliquam erat volutpat. Fusce tellus. Duis risus. Nulla est. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.\n\nTemporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer malesuada. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat. Fusce suscipit libero eget elit. Praesent vitae arcu tempor neque lacinia pretium. Vivamus luctus egestas leo. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_LBNF1BEL5J-3.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/oldies\/?attribute_color=Blue","brand":"Elina","price":"49 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"49 VND","item_group_id":"vneck-tee_308","condition":"new","id":"vneck-tee_26"}},{"method":"UPDATE","data":{"title":"Oldies","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\n\nInteger vulputate sem a nibh rutrum consequat. Praesent vitae arcu tempor neque lacinia pretium. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Quisque tincidunt scelerisque libero. Maecenas aliquet accumsan leo. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Proin mattis lacinia justo. Aenean vel massa quis mauris vehicula lacinia. Praesent id justo in neque elementum ultrices. Donec iaculis gravida nulla. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Aliquam erat volutpat. Fusce tellus. Duis risus. Nulla est. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.\n\nTemporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer malesuada. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat. Fusce suscipit libero eget elit. Praesent vitae arcu tempor neque lacinia pretium. Vivamus luctus egestas leo. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_LBNF1BEL5J-3.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/oldies\/?attribute_color=Black","brand":"Elina","price":"90 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"90 VND","item_group_id":"vneck-tee_308","condition":"new","id":"vneck-tee_27"}},{"method":"UPDATE","data":{"title":"Futre IO","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_99KAK5LAA7-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/futre-io\/?attribute_logo=No","brand":"Elina","price":"35 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"35 VND","item_group_id":"wc_post_id_13","condition":"new","additional_variant_attribute":"logo:No","id":"wc_post_id_21"}},{"method":"UPDATE","data":{"title":"Women's dress","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\u00a0Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Mauris tincidunt sem sed arcu. Nunc auctor. Mauris dictum facilisis augue. Phasellus faucibus molestie nisl. Nullam dapibus fermentum ipsum. Aliquam erat volutpat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_41OTX8QXSK-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/womens-dress\/","brand":"Elina","price":"20000 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"20000 VND","item_group_id":"wc_post_id_24","condition":"new","id":"wc_post_id_24"}},{"method":"UPDATE","data":{"title":"Top pants upper","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\u00a0Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Mauris tincidunt sem sed arcu. Nunc auctor. Mauris dictum facilisis augue. Phasellus faucibus molestie nisl. Nullam dapibus fermentum ipsum. Aliquam erat volutpat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_KQECHSBAOC-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/top-pants-upper\/","brand":"Elina","price":"20 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"20 VND","item_group_id":"wc_post_id_23","condition":"new","id":"wc_post_id_23"}},{"method":"UPDATE","data":{"title":"Evening trousers","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\n\nTemporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Aenean placerat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer malesuada. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat. Fusce suscipit libero eget elit. Praesent vitae arcu tempor neque lacinia pretium. Vivamus luctus egestas leo. Nullam at arcu a est sollicitudin euismod.\n\nNulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_XPI5DN9KGA-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/evening-trousers\/","brand":"Elina","price":"55 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/2038-01-17T23:59+00:00","sale_price":"30 VND","item_group_id":"wc_post_id_16","condition":"new","id":"wc_post_id_16"}},{"method":"UPDATE","data":{"title":"Hard top","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\u00a0Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat.\u00a0Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat.\u00a0Nulla pulvinar eleifend sem. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Mauris metus. Curabitur vitae diam non enim vestibulum interdum. Aenean id metus id velit ullamcorper pulvinar. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Integer vulputate sem a nibh rutrum consequat.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_AQ62CU8K64-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/hard-top\/","brand":"Elina","price":"30 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/1970-01-30T23:59+00:00","sale_price":"30 VND","item_group_id":"wc_post_id_18","condition":"new","id":"wc_post_id_18"}},{"method":"UPDATE","data":{"title":"Single Shirt","description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.\n\nNulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Mauris elementum mauris vitae tortor. Curabitur sagittis hendrerit ante. Suspendisse sagittis ultrices augue. Aliquam ante. Ut tempus purus at lorem. Donec iaculis gravida nulla. Etiam bibendum elit eget erat. Curabitur bibendum justo non orci. Cras elementum. In dapibus augue non sapien. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Praesent dapibus. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Aenean vel massa quis mauris vehicula lacinia. Nullam at arcu a est sollicitudin euismod.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_QXVSHD5FLF-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/single-shirt\/","brand":"Elina","price":"30 VND","availability":"in stock","visibility":"staging","sale_price_effective_date":"1970-01-29T00:00+00:00\/2038-01-17T23:59+00:00","sale_price":"20 VND","item_group_id":"woo-single_20","condition":"new","id":"woo-single_20"}},{"method":"UPDATE","data":{"title":"Bikini","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Integer vulputate sem a nibh rutrum consequat. Praesent vitae arcu tempor neque lacinia pretium. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Quisque tincidunt scelerisque libero. Maecenas aliquet accumsan leo. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Proin mattis lacinia justo. Aenean vel massa quis mauris vehicula lacinia. Praesent id justo in neque elementum ultrices. Donec iaculis gravida nulla. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Aliquam erat volutpat. Fusce tellus. Duis risus. Nulla est. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.\n\nInteger vulputate sem a nibh rutrum consequat. Praesent vitae arcu tempor neque lacinia pretium. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Quisque tincidunt scelerisque libero. Maecenas aliquet accumsan leo. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Proin mattis lacinia justo. Aenean vel massa quis mauris vehicula lacinia. Praesent id justo in neque elementum ultrices. Donec iaculis gravida nulla. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Aliquam erat volutpat. Fusce tellus. Duis risus. Nulla est. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_MO7PZ7AYIC-2.jpg","additional_image_link":["http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_Y6SDOYW0KA-2.jpg","http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_XPI5DN9KGA-2.jpg","http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_RMOCSAQNUG-3.jpg"],"link":"http:\/\/elina.local\/product\/bikini\/","brand":"Elina","price":"25000 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/2038-01-17T23:59+00:00","sale_price":"19000 VND","item_group_id":"wc_post_id_22","condition":"new","id":"wc_post_id_22"}},{"method":"UPDATE","data":{"title":"Black trousers","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\u00a0Phasellus faucibus molestie nisl. Nullam dapibus fermentum ipsum. Aliquam erat volutpat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\u00a0Phasellus faucibus molestie nisl. Nullam dapibus fermentum ipsum. Aliquam erat volutpat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\n\nPhasellus faucibus molestie nisl. Nullam dapibus fermentum ipsum. Aliquam erat volutpat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_RMOCSAQNUG-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/black-trousers\/","brand":"Elina","price":"25 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/2038-01-17T23:59+00:00","sale_price":"20 VND","item_group_id":"woo-cap_15","condition":"new","id":"woo-cap_15"}},{"method":"UPDATE","data":{"title":"Modern","description":"Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.\n\nEtiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Mauris tincidunt sem sed arcu. Nunc auctor. Mauris dictum facilisis augue. Phasellus faucibus molestie nisl. Nullam dapibus fermentum ipsum. Aliquam erat volutpat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Pellentesque arcu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed elit dui, pellentesque a, faucibus vel, interdum nec, diam. Pellentesque ipsum. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Sed ac dolor sit amet purus malesuada congue.\n\nInteger vulputate sem a nibh rutrum consequat. Praesent vitae arcu tempor neque lacinia pretium. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Quisque tincidunt scelerisque libero. Maecenas aliquet accumsan leo. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Proin mattis lacinia justo. Aenean vel massa quis mauris vehicula lacinia. Praesent id justo in neque elementum ultrices. Donec iaculis gravida nulla. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Aliquam erat volutpat. Fusce tellus. Duis risus. Nulla est. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.","image_link":"http:\/\/elina.local\/wp-content\/uploads\/2019\/04\/StockSnap_4F9UDG0I8Q-2.jpg","additional_image_link":[],"link":"http:\/\/elina.local\/product\/modern\/","brand":"Elina","price":"25 VND","availability":"in stock","visibility":"published","sale_price_effective_date":"1970-01-29T00:00+00:00\/2038-01-17T23:59+00:00","sale_price":"20 VND","item_group_id":"woo-beanie_14","condition":"new","id":"woo-beanie_14"}}],"item_type":"PRODUCT_ITEM"}
+duration: 1.13007s
+
+12-25-2020 @ 14:24:01 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AEeJiKSgg9N8SIYO614kkmc
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => H6T99wf5Owy
+    [x-fb-rev] => 1003138860
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-fb-rlafr] => 0
+    [x-business-use-case-usage] => {"690414145170123":[{"type":"ads_management","call_count":1,"total_cputime":1,"total_time":1,"estimated_time_to_regain_access":0}]}
+    [access-control-allow-origin] => *
+    [x-fb-debug] => adMLbbGiZKkaBioYklX1M2z8M6sFKWOuu8s5+aCZiCtZTFStojTwN0f+AS6a3Y9byBzQbLIS8DDsb9jXSmwvDA==
+    [date] => Fri, 25 Dec 2020 07:24:03 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 126
+)
+body: {"handles":["AcyhoaH1JNN3e-AB5yp9KR7kbqtbiScOzeCn82o18ZkUvnRXPkKSzLnlcPLV8J7dZHPOk8PQjszruFJ_eKlsgPyY8ql-IHP3nKVl4rk1jWKMZQ"]}
+
+12-25-2020 @ 14:32:53 - Generating a fresh product feed file
+12-25-2020 @ 14:32:54 - Product feed file generated
+12-25-2020 @ 14:49:03 - Generating a fresh product feed file
+12-25-2020 @ 14:49:04 - Product feed file generated
+12-25-2020 @ 15:05:11 - Generating a fresh product feed file
+12-25-2020 @ 15:05:11 - Product feed file generated
+12-25-2020 @ 15:17:18 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.47203s
+
+12-25-2020 @ 15:17:18 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => ADXDbuUcSNHuE_CX_x3ozWe
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => E0Bn095nGC4
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138869
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => 7kJmAMMHJwr9KpkYOS7tdA88XrrtWIgqj0woUHF+wpJzT7Op+6Tb4XuW6d3hC9g03J6woq0TCsZbAgLJlR4g1g==
+    [date] => Fri, 25 Dec 2020 08:17:20 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 15:17:18 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.79805s
+
+12-25-2020 @ 15:17:18 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AEc078P0bqTl2HTllY-ATyT
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => DWY7c1PXj6L
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138869
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => DL4OrrVFRoty43w7cUC0SolqkKefEpjZjidgURkdK4t7Ipb0d3uDyT+C8s2jRiBLVrd4wh3HoKZTMwUe1byXAA==
+    [date] => Fri, 25 Dec 2020 08:17:20 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 15:21:19 - Generating a fresh product feed file
+12-25-2020 @ 15:21:20 - Product feed file generated
+12-25-2020 @ 15:37:23 - Generating a fresh product feed file
+12-25-2020 @ 15:37:24 - Product feed file generated
+12-25-2020 @ 15:53:31 - Generating a fresh product feed file
+12-25-2020 @ 15:53:31 - Product feed file generated
+12-25-2020 @ 16:09:39 - Generating a fresh product feed file
+12-25-2020 @ 16:09:39 - Product feed file generated
+12-25-2020 @ 16:17:44 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.43903s
+
+12-25-2020 @ 16:17:44 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AlX2KN4hgrTie8M_0SbfzDC
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => HhItxDWhFIW
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138876
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => KZY3YXfT1FeL0aG9dgS+YwN4JhYKHZuMvACDKG6A53d5pkbfIvHaJjCu8hbhfkd2Q6Nd7T+IfiOH90f9yBUcMw==
+    [date] => Fri, 25 Dec 2020 09:17:46 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 16:17:44 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.32802s
+
+12-25-2020 @ 16:17:44 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AqjgJihD5w9kYWAY_0MpFP-
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => BOxnZ48e/Ku
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138869
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":8,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => YZwHUtKo4yVKyMaNi3VIZtyOZ7ptaRtv1HFIe7lB6okBfCiC+mJD1fkzFyP0PgmjfJs2md711zdljmIj4og0mA==
+    [date] => Fri, 25 Dec 2020 09:17:46 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 16:25:13 - Generating a fresh product feed file
+12-25-2020 @ 16:25:13 - Product feed file generated
+12-25-2020 @ 22:54:00 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.33402s
+
+12-25-2020 @ 22:54:00 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => A0uz_yWxA7ETjlNPef6CQ-r
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => GfFQyNPj3gQ
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138910
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => +thnFyXhV8J6/7gcCovcACrHJ2SHi9Mfy+gJAa6JrN4kQHB02BiK0fiuY/j+Ldon821JYMQ/a5RfhEjFc4oSaQ==
+    [date] => Fri, 25 Dec 2020 15:54:02 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 22:54:00 - Generating a fresh product feed file
+12-25-2020 @ 22:54:00 - Product feed file generated
+12-25-2020 @ 22:54:00 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 1.08206s
+
+12-25-2020 @ 22:54:00 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => A00bBbrmkDWew4JnuUYczpP
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => AraJjmglCEK
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138910
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => yE8vxsSFX52TxALNXVY0+G8+dCG9dJIr6GBmTuaFfK99ev4cctwM+1g8JjMTixQTbzpl/dpYvR02a8xYIsop4A==
+    [date] => Fri, 25 Dec 2020 15:54:03 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 23:14:47 - Generating a fresh product feed file
+12-25-2020 @ 23:14:47 - Product feed file generated
+12-25-2020 @ 23:30:09 - Generating a fresh product feed file
+12-25-2020 @ 23:30:09 - Product feed file generated
+12-25-2020 @ 23:46:39 - Generating a fresh product feed file
+12-25-2020 @ 23:46:39 - Product feed file generated
+12-25-2020 @ 23:54:27 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.33702s
+
+12-25-2020 @ 23:54:27 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AvGt8Gn_u_8Ei3Vu1A1PKvp
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => EiVJeUBIdMM
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => 3bZ+AFgg3Bp08MWbBSDx+tozuWMEC2eAVOlSdTgLAGUk2nImAIP0tsPg7hd9RZhEzGVzc0LGWcDd3b2Qi5gcKQ==
+    [date] => Fri, 25 Dec 2020 16:54:30 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-25-2020 @ 23:54:27 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.50703s
+
+12-25-2020 @ 23:54:27 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AvHB29m-KP13xxdXhYtrQkM
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => FYTQziJtyqs
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => gwiBD0xqV8HWfg1weMxjNOQiCP3SZ55N3KVTHxQmgBjQPVKCYoKhwPVLilVUZeWqAw+dyqo6M4xX1ejlOeeU1w==
+    [date] => Fri, 25 Dec 2020 16:54:30 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-26-2020 @ 00:03:05 - Generating a fresh product feed file
+12-26-2020 @ 00:03:05 - Product feed file generated
+12-26-2020 @ 00:17:23 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608916643,"event_id":"221b5ae7-6df1-4bd3-a0d6-0422ee0bb6a8","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.34502s
+
+12-26-2020 @ 00:17:23 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AdZcAhykQrKDByA03cVHvUy
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => D0Afy8TtDQ5
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => GVIYcNUOmI+ToLAQQP9bEQFnOFZlmoSpPCpx1B40l4t0NL7hPlzG8lZQefMrV6PhpzGpRubl3JirzCTKnKJuRg==
+    [date] => Fri, 25 Dec 2020 17:17:26 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"AdZcAhykQrKDByA03cVHvUy"}
+
+12-26-2020 @ 00:18:10 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608916690,"event_id":"75e0b851-e815-4018-b74f-8847ba9e1e69","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.31902s
+
+12-26-2020 @ 00:18:10 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AaZt38DUTHLi57PaHx6vRdd
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => BKKh/24+ZUt
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => R/j6VfUIQNQv0F7+/6HW5VUsO+Gb90kHyfad4Bz6p1H5oWwj3QRKJSBeeRXjwcQMb4DVF6vcFl6SMhtvuzk1dw==
+    [date] => Fri, 25 Dec 2020 17:18:13 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"AaZt38DUTHLi57PaHx6vRdd"}
+
+12-26-2020 @ 00:18:35 - Generating a fresh product feed file
+12-26-2020 @ 00:18:36 - Product feed file generated
+12-26-2020 @ 00:26:51 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608917211,"event_id":"891782d5-d28d-46b2-8781-62bc829f879f","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.30202s
+
+12-26-2020 @ 00:26:51 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AZQs5gqqzYIemukvO1mdR0r
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => BP6lpee5WoY
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => yrqHR8jS1d49WbEMXRAkEUcMvxq7GOfh2OwwtlXaAhcKcDrbkgp6OSQxVf8ngvXy3G0eAhQZ7eIII+F04QTQXg==
+    [date] => Fri, 25 Dec 2020 17:26:54 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"AZQs5gqqzYIemukvO1mdR0r"}
+
+12-26-2020 @ 00:34:15 - Generating a fresh product feed file
+12-26-2020 @ 00:34:16 - Product feed file generated
+12-26-2020 @ 00:36:31 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608917791,"event_id":"fec5b598-9ecd-4470-a0c5-84d2815b3d4f","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.29802s
+
+12-26-2020 @ 00:36:31 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AMbqZ76tTrO9dyKuvfNoQQq
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => H6ogBaEfBf/
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => cpSlR7C4GnYUNfJ2EGqj8XZAg7BVMwM28wOfM4+drXZWSriYtHX8WB4hcrkRX62n+xOoXqtAc9+A/bDLvis+Mg==
+    [date] => Fri, 25 Dec 2020 17:36:34 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"AMbqZ76tTrO9dyKuvfNoQQq"}
+
+12-26-2020 @ 00:39:36 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608917976,"event_id":"902ee5d2-a19d-4446-a2c8-dae29f631eac","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.35002s
+
+12-26-2020 @ 00:39:36 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => Ayhkl6cwpER0MULvk_yKJvb
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => FbHGDNaTzb+
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => m5uvz/g4O8YfVuHbVOxnxHupLmXMv3n8MgInx2yaR0Pbgd3laBwENFfcXbgpdaFCSB4XINhYyQZKrd0nLxJ7Yw==
+    [date] => Fri, 25 Dec 2020 17:39:39 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"Ayhkl6cwpER0MULvk_yKJvb"}
+
+12-26-2020 @ 00:41:42 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608918102,"event_id":"9c38957b-cc31-4702-b7fe-967c21dc0700","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.30502s
+
+12-26-2020 @ 00:41:42 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AdHB-Br89A2h2H7V9Vg_pPV
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => FkFR54WPFuS
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => Z9n/QnU0goZX5pJ5qCaBz1uP9WzBZaa2KJqEp9RFBAEHE/nAZPsVRhUfHPEfMsxs7ZOk2uKXS9Z0CPPRguopRg==
+    [date] => Fri, 25 Dec 2020 17:41:45 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"AdHB-Br89A2h2H7V9Vg_pPV"}
+
+12-26-2020 @ 00:42:45 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608918165,"event_id":"1ee461e9-0b03-437f-90da-0594aa6537bc","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.47903s
+
+12-26-2020 @ 00:42:45 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AbddheIxNAvoLScqYtvzet8
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => HrHrpkO5CHp
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => eTlFtIuQp3ZPrOSPA7aDy9TsI61PE83romDxU1EcTchBpueEnigK4O0zzwaAs4rJxrQcjki/+aaeDGFEWtJ0AA==
+    [date] => Fri, 25 Dec 2020 17:42:48 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"AbddheIxNAvoLScqYtvzet8"}
+
+12-26-2020 @ 00:46:01 - Request
+Request
+method: POST
+uri: https://graph.facebook.com/v7.0/168003505067620/events
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body: {"data":[{"event_time":1608918361,"event_id":"a404ce89-4420-4ff1-9878-eb1c95cfad0a","event_source_url":"http:\/\/elina.local\/checkout-2\/","custom_data":{"num_items":1,"content_ids":"[\"wc_post_id_349\"]","content_name":"[\"V\\u1ec1 th\\u00eam m\\u1eabu ti\\u1ec3u th\\u01b0 tay ph\\u1ed3ng cho n\\u00e0ng n\\u00e0o b\\u00e1nh b\\u00e8o nha\"]","content_type":"product","contents":"[{\"id\":\"wc_post_id_349\",\"quantity\":1}]","value":"100000","currency":"VND","content_category":"Women's Clothing"},"user_data":{"client_ip_address":"127.0.0.1","client_user_agent":"Mozilla\/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/87.0.4280.88 Safari\/537.36","em":"e390e6812c8f555ce56464e350218ff1bfcec56ed55aaf80d73bfe6c1e47db2b","external_id":"6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b","fbc":"","fbp":"fb.1.1608869708173.2026254648"},"event_name":"InitiateCheckout"}],"partner_agent":"woocommerce-4.8.0-2.2.0"}
+duration: 0.33102s
+
+12-26-2020 @ 00:46:01 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [x-ad-account-usage] => {"acc_id_util_pct":0}
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AUhij1FSpLG8yrWFzKYf49C
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => ET2eg+OnTQ4
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => u+NwP1MlAuMWnHV5DZLccP/DBvnTbNdqLQEBTeRZ78DcF6+VYqKTEJlZEYJoJJFILm1SkE3czu7HRuTffW2fUQ==
+    [date] => Fri, 25 Dec 2020 17:46:04 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 74
+)
+body: {"events_received":1,"messages":[],"fbtrace_id":"AUhij1FSpLG8yrWFzKYf49C"}
+
+12-26-2020 @ 00:49:40 - Generating a fresh product feed file
+12-26-2020 @ 00:49:40 - Product feed file generated
+12-26-2020 @ 00:54:29 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.36002s
+
+12-26-2020 @ 00:54:29 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AwhUoM8TlvXLiUSitoSowzT
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => F6PrnU4E7k5
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138924
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => JrT2ZzWw5WhPuaBz6knxn6taN3K9BJCLRA1zR4KX6Qjjw/s/MlFSNkF1fcB+8UxlDzjz2Vwb5cd3+9H8f07lgQ==
+    [date] => Fri, 25 Dec 2020 17:54:31 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-26-2020 @ 00:54:29 - Request
+Request
+method: GET
+uri: https://graph.facebook.com/v7.0/fbe_business?fbe_external_business_id=elina-5fe563f86908f
+user-agent: Facebook-for-WooCommerce/2.2.0 (WooCommerce/4.8.0; WordPress/5.6)
+headers: Array
+(
+    [Authorization] => **********************************************************************************************************************************************************************************************************************
+    [content-type] => application/json
+    [accept] => application/json
+)
+body:
+duration: 0.30902s
+
+12-26-2020 @ 00:54:29 - Response
+Response
+code: 200
+message: OK
+headers: Array
+(
+    [etag] => "e758433c367be99a11ad21e643562799b7947fe9"
+    [expires] => Sat, 01 Jan 2000 00:00:00 GMT
+    [content-type] => application/json
+    [facebook-api-version] => v7.0
+    [x-fb-request-id] => AVf6tqiqMVvRSEnTVfnxpMO
+    [strict-transport-security] => max-age=15552000; preload
+    [x-fb-trace-id] => Ckey2rWhyoK
+    [content-encoding] => gzip
+    [x-fb-rev] => 1003138937
+    [cache-control] => private, no-cache, no-store, must-revalidate
+    [vary] => Accept-Encoding
+    [pragma] => no-cache
+    [x-app-usage] => {"call_count":9,"total_cputime":0,"total_time":1}
+    [x-fb-rlafr] => 0
+    [access-control-allow-origin] => *
+    [x-fb-debug] => 00y5ZoDjAJE8V3h3UGGXvJ81Pykw1Es0R4Bjg9BWjIEWJNIloDff68+OD3xKXYrOdtmYyvlKea35dAxYxrPhLQ==
+    [date] => Fri, 25 Dec 2020 17:54:32 GMT
+    [alt-svc] => h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+    [content-length] => 148
+)
+body: {"business":{"name":"Elina"},"catalog_feed_scheduled":{"enabled":false},"ig_cta":{"enabled":false},"ig_shopping":{"enabled":false},"messenger_chat":{"enabled":false},"messenger_menu":{"enabled":false},"page_card":{"enabled":false},"page_cta":{"enabled":false},"page_post":{"enabled":false},"page_shop":{"enabled":false},"thread_intent":{"enabled":false}}
+
+12-26-2020 @ 01:08:42 - Generating a fresh product feed file
+12-26-2020 @ 01:08:43 - Product feed file generated
+12-26-2020 @ 01:26:19 - Generating a fresh product feed file
+12-26-2020 @ 01:26:20 - Product feed file generated
